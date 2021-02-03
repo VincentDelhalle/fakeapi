@@ -1,8 +1,8 @@
 {
   "application": [
-    { "id": 1, "Name": "app1", "PackageName": "com.lpl.app1", "Version":"0.1.0", "DownloadURI": "" },
-    { "id": 2, "Name": "xin", "PackageName": "com.lpl.xin", "Version":"0.1.0", "DownloadURI": "" },
-    { "id": 3, "Name": "rm", "PackageName": "com.lpl.rm", "Version":"0.1.0", "DownloadURI": "" }
+    { "Id": 1, "Name": "app1", "PackageName": "com.lpl.app1", "Version":"0.1.0", "DownloadURI": "" },
+    { "Id": 2, "Name": "xin", "PackageName": "com.lpl.xin", "Version":"0.1.0", "DownloadURI": "" },
+    { "Id": 3, "Name": "rm", "PackageName": "com.lpl.rm", "Version":"0.1.0", "DownloadURI": "" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
